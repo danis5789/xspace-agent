@@ -14,3 +14,4 @@ export type {
 // Re-export core types for convenience
 export type { Message, ClientConfig, ConnectionState } from '@agent-voice-chat/core';
 
+
