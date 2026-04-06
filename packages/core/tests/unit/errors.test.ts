@@ -197,3 +197,4 @@ describe('Error inheritance chain', () => {
   })
 })
 
+
