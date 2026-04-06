@@ -153,3 +153,4 @@ async function extractFactsBatch(messages) {
 
 module.exports = { extractFacts, extractFactsBatch, isExtractable }
 
+
