@@ -33,3 +33,4 @@ Selector definitions live in `selectors.ts` (`SELECTOR_DEFINITIONS`).
 | `observer.ts` | CDP-based DOM change monitoring |
 | `secure-cookie-store.ts` | AES-encrypted cookie persistence |
 
+
