@@ -67,3 +67,4 @@ export const AudioVisualizer: React.FC<AudioVisualizerProps> = ({
 
 AudioVisualizer.displayName = 'AudioVisualizer';
 
+
