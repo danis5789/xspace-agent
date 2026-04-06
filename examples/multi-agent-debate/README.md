@@ -32,3 +32,4 @@ Two AI agents — **Bull** (optimist, powered by OpenAI) and **Bear** (skeptic, 
 - Supported turn strategies: `round-robin`, `queue`, `director`
 - Default debate topic: "AI will replace most software engineering jobs within 5 years"
 
+
