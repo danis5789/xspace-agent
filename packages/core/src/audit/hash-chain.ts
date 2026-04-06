@@ -88,3 +88,4 @@ export function verifyChain(entries: AuditLogEntry[]): number {
   return -1
 }
 
+
