@@ -126,3 +126,4 @@ The current index.html has references to Talky (trades bar, chat sidebar with pu
 - Remove /talky nav link
 - Keep core X Space agent display functionality
 
+
