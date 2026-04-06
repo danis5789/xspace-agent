@@ -80,3 +80,4 @@ export function isValid2faCode(code: string): boolean {
   return typeof code === "string" && /^\d{6,8}$/.test(code)
 }
 
+
