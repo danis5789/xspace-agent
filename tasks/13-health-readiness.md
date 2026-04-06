@@ -131,3 +131,4 @@ Use `prom-client` library for metric collection.
 - [ ] Message counters increment in real-time
 - [ ] No authentication required for health/ready/metrics
 
+
