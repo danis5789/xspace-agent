@@ -99,3 +99,4 @@ await browser.close()
 
 console.log('\nDone. Compare debug-screenshots/test1-with-hooks.png and test2-no-hooks.png')
 
+
