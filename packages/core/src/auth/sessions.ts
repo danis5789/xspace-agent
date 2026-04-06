@@ -154,3 +154,4 @@ function mapSession(row: any): UserSession {
   }
 }
 
+
