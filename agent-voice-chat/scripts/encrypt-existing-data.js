@@ -107,3 +107,4 @@ if (encrypted > 0) {
   console.log("Backup files (.bak) were created. Remove them after verifying encryption works.")
 }
 
+
