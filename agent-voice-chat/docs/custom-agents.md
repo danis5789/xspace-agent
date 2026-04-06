@@ -192,3 +192,4 @@ curl http://localhost:3000/api/agents
 4. **Match voice to personality.** A calm advisor should use `sage` or `shimmer`, not an energetic voice.
 5. **Test with voice.** Text that reads well can sound awkward when spoken aloud. Iterate by listening, not just reading.
 
+
