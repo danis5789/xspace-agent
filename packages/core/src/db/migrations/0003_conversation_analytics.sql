@@ -61,3 +61,4 @@ CREATE INDEX IF NOT EXISTS idx_sentiment_ts_session
 CREATE INDEX IF NOT EXISTS idx_sentiment_ts_speaker
   ON sentiment_timeseries(session_id, speaker);
 
+
