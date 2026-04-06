@@ -106,3 +106,4 @@ export async function promptAuth(): Promise<{ method: string; authToken?: string
   return { method, ...credentials };
 }
 
+
