@@ -39,3 +39,4 @@ For cookie persistence (auth tokens), mount a second disk at `/app/cookies`.
 - For heavy usage (multiple spaces), use the Pro plan (4GB+ RAM)
 - Auto-deploy from GitHub is supported — push to main to redeploy
 
+
