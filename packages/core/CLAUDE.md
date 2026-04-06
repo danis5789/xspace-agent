@@ -127,3 +127,4 @@ Coverage config in `vitest.config.ts`: v8 provider, excludes `types.ts` and `bro
 4. **Adding a plugin**: Implement `Plugin` interface from `plugins/types.ts`.
 5. **Extending the FSM**: Add states/transitions in `fsm/agent-machine.ts` or `fsm/team-machine.ts`.
 
+
