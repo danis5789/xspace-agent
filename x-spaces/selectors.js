@@ -35,3 +35,4 @@ module.exports = {
   SPACE_LIVE_INDICATOR: 'span:has-text("LIVE"), [data-testid="SpaceLiveIndicator"]'
 }
 
+
