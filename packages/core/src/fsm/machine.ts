@@ -206,3 +206,4 @@ export class StateMachine<TContext, TEvent extends { type: string }> {
   }
 }
 
+
