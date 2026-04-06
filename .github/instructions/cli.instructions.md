@@ -27,3 +27,4 @@ Published as `@xspace/cli`. See `packages/cli/CLAUDE.md` for the module map.
 - New commands go in `src/commands/` using Commander.js
 - Config files must be written with restrictive permissions (chmod 600) when containing credentials
 
+
