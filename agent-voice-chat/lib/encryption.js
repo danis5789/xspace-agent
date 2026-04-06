@@ -67,3 +67,4 @@ class FileEncryption {
 
 module.exports = { FileEncryption, ALGORITHM, KEY_LENGTH, IV_LENGTH, TAG_LENGTH }
 
+
