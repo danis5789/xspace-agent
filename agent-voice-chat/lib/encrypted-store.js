@@ -99,3 +99,4 @@ function createFileStore(encryptionKey) {
 
 module.exports = { EncryptedFileStore, PlainFileStore, createFileStore, MAGIC_HEADER, HEADER_LENGTH }
 
+
