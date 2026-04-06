@@ -388,3 +388,4 @@ export function getFlowTemplatesByCategory(category: string): FlowTemplate[] {
   return FLOW_TEMPLATES.filter(t => t.category.toLowerCase() === category.toLowerCase());
 }
 
+
