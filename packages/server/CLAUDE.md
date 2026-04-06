@@ -86,3 +86,4 @@ Uses `crypto.timingSafeEqual` to prevent timing attacks.
 - **Graceful shutdown**: SIGTERM/SIGINT → stop rate limiter → destroy agent → close server → 10s force exit
 - **Security**: Helmet CSP, CORS, rate limiting, secret redaction in errors
 
+
