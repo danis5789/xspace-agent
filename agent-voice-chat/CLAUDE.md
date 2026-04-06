@@ -95,3 +95,4 @@ npx vitest run --coverage         # With coverage (80% thresholds)
 
 Uses vitest with custom helpers: `createTestApp()`, `createTestServer()`, `createConnectedClient()`, mock providers.
 
+
