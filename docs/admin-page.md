@@ -142,3 +142,4 @@ Each agent has its own control page where it can be independently connected. The
 - Receives `ttsBrowser` events → uses browser's `speechSynthesis`
 - Queues playback to prevent overlap
 
+
