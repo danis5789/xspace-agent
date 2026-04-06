@@ -246,3 +246,4 @@ export function getFeaturedTemplates(): AgentTemplate[] {
   return AGENT_TEMPLATES.filter((t) => t.featured);
 }
 
+
