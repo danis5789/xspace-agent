@@ -251,3 +251,4 @@ function getStatus(): XSpacesStatusInfo {
 
 export { start, stop, joinSpace, leaveSpace, speakInSpace, getStatus, emitter }
 
+
