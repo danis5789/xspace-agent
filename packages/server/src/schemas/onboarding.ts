@@ -85,3 +85,4 @@ export const FunnelQuerySchema = z.object({
   end: z.string().min(1, 'end query parameter is required (ISO date)'),
 })
 
+
