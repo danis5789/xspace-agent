@@ -100,3 +100,4 @@ Returns reactive refs and methods for connection, audio, and messages. See TypeS
 
 A bar-style audio level visualizer. Pass `:level` (0–1) and optional styling props.
 
+
