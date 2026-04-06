@@ -43,3 +43,4 @@ cd packages/core && pnpm build         # tsc → dist/
 cd packages/core && pnpm test:coverage # vitest with coverage
 ```
 
+
