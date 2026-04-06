@@ -76,3 +76,4 @@ fs.writeFileSync(path.join(dir, 'silence.wav'), createWavBuffer(silenceSamples, 
 
 console.log('Generated hello.wav and silence.wav in', dir)
 
+
