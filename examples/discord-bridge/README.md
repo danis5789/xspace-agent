@@ -45,3 +45,4 @@ Only users with the **Administrator** permission can use these commands.
 - Error reporting in Discord
 - Permission-gated commands (admin only)
 
+
