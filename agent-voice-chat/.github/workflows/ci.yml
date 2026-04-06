@@ -60,3 +60,4 @@ jobs:
           curl -f http://localhost:3000/api/health || exit 1
           docker stop test
 
+
