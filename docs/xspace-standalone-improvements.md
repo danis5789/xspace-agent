@@ -86,3 +86,4 @@ Currently if the browser crashes or X kicks the bot, it just dies.
 - [ ] Speaker names appear in transcriptions
 - [ ] Graceful shutdown cleans up properly
 
+
