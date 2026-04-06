@@ -271,3 +271,4 @@ Use this in your provider to maintain conversation context. It automatically tri
 - **Test with text first.** Set `INPUT_CHAT=true` and type messages before testing with voice.
 - **Reuse SSE parsing.** If your API uses OpenAI-compatible SSE format, look at `openai-chat.js` or `groq.js` for reference — they share the same parsing pattern.
 
+
