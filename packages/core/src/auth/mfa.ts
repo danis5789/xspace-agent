@@ -199,3 +199,4 @@ export async function isMFAEnabled(userId: string): Promise<boolean> {
   return !!record && record.verified === 1
 }
 
+
