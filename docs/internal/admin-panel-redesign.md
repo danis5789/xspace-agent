@@ -274,3 +274,4 @@ public/
 - [ ] Looks good in screenshots (dark theme, polished)
 - [ ] No external CSS/JS dependencies (self-contained)
 
+
