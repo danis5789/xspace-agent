@@ -27,3 +27,4 @@ export const CreatePersonalityBodySchema = z.object({
 
 export const UpdatePersonalityBodySchema = CreatePersonalityBodySchema.partial()
 
+
