@@ -189,3 +189,4 @@ curl http://localhost:3000/config
 - **Room auto-cleanup** runs every 5 minutes and removes empty rooms past their TTL, so memory usage stays bounded.
 - **Audio data** is not persisted by default. If you need conversation recordings, you'll need to add that separately.
 
+
