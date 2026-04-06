@@ -92,3 +92,4 @@ export interface WidgetEvents {
   'state:update': { agents: Record<number, unknown>; currentTurn: number | null };
 }
 
+
