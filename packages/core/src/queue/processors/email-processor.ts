@@ -36,3 +36,4 @@ export async function emailProcessor(job: Job<EmailJob>): Promise<{ sent: boolea
   return { sent: true, messageId }
 }
 
+
