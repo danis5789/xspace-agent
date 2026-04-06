@@ -120,3 +120,4 @@ Document how to set up log rotation:
 - [ ] Agent lifecycle events logged at info level
 - [ ] Provider errors logged with error code, latency, provider name
 
+
