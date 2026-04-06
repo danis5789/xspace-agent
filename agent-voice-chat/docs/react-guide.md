@@ -223,3 +223,4 @@ NEXT_PUBLIC_VOICE_SERVER=https://your-server.com
 
 > The `VoiceChat` component uses browser APIs (mic, audio), so it must be a client component (`'use client'`).
 
+
