@@ -98,3 +98,4 @@ Returns an object with connection controls, state, and messages. See TypeScript 
 
 A bar-style audio level visualizer. Pass `level` (0–1) and optional styling props.
 
+
