@@ -217,3 +217,4 @@ Critical errors show a red banner in admin panel. Warnings show amber indicators
 - [ ] Structured logs work in both JSON and pretty format
 - [ ] Diagnostics help identify actual issues (test by introducing latency)
 
+
